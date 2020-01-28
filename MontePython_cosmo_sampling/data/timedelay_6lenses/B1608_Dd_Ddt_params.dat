@@ -1,0 +1,10 @@
+# Data on B1608
+# the columns are [zd, zs, lambda_d, mu_d, sigma_d, lambda_sft, mu_sft, sigma_sft]
+# with zd = lens redhsift 
+#      zs = source redhsift
+# other three params refer to the shifted lognormal PDF of the time-delay distance,
+# as in Suyu et al. 2010 (eq. 35) and 2012 (eq. 26), and the shifted lognormal PDF 
+# of the distance to the lens, as in Jee et al. 2019 (eq. S17).
+#
+# B1608+656 (Suyu et al. 2010, Jee et al. 2019)
+0.6304  1.394   4000.0  7.053   0.2282  334.2   894.9   0.1836

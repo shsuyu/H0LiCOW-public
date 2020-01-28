@@ -1,0 +1,2 @@
+# timedelay data
+timedelay_6lenses.data_directory = data.path['data']
