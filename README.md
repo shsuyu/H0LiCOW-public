@@ -1,4 +1,4 @@
-# H0LiCOW public github repository
+# H0LiCOW data products
 
 In this repository, users can find the posterior distributions of the time-delay distances and angular diameter distances for five of the six lens systems, in the directory "h0licow_distance_chains". The remaining lens (B1608+656) has an analytical fit to the PDF. 
 
