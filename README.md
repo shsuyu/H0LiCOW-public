@@ -15,5 +15,5 @@ If you make use of this data, please cite the relevant H0LiCOW publications: <br
 The H0 inference from these distance posteriors can be obtained following our python notebook, under the direcory "H0_inference_code".  If you make use of the python notebook for H0 inference, please credit Martin Millon and Vivien Bonvin by citing this:
  - TODO: enter zenodo link - 
 
-Our implementation of the 6-lens distance posteriors and sampling scripts in MontePython (Brinckmann & Lesgourgues 2019; Audren et al. 2013) can be found in the directory "". If you make use of this implementation, please credit Stefan Taubenberger and Sherry Suyu by citing this:
+Our implementation of the 6-lens distance posteriors and sampling scripts in MontePython (Brinckmann & Lesgourgues 2019; Audren et al. 2013) can be found in the directory "MontePython_cosmo_sampling". If you make use of this implementation, please credit Stefan Taubenberger and Sherry Suyu by citing this:
  - TODO: enter zenodo link -
