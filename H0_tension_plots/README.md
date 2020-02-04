@@ -4,17 +4,13 @@
 ![H0_tension.png](https://raw.githubusercontent.com/shsuyu/H0LiCOW-public/master/H0_tension_plots/H0_tension.png)
 As of 20.08.2019
 
-
 ### This is amazing, can I use it?
-Sure. You can always reach us (see below) if you'd like an updated/modified version. We're not charging citations, a simple acknowledgment will suffice. The code is licensed under GPL3.0 (see LICENSE).
+Sure, at the price of a citation (see our Zenodo reference below). You can always reach us via the issue system if you would like an updated/modified version for your needs.
 
-The code is not very well documented yet, but is simple enough so that it shouldn't take long to anyone with decent python skills to understand how it works. Shoud you find yourself perplexed, you can always get in touch with us via the Issues or direcly by email (see below).
+The code is not very well documented yet, but is simple enough so that it shouldn't take long to anyone with decent python skills to understand how it works. 
 
 #### Are you planning to update this plot when new measurements come out?
-We sure do. Let us know if we missed a new result 
-
-#### Are you going to make that repository full of these complicated files and tests and docs and all to get a DOI on JOSS ?
-Perhaps.
+We sure do. Let us know if we missed a new result! 
 
 #### Contributors
 Vivien Bonvin (vivien.bonvin@protonmail.ch)  
