@@ -1,5 +1,5 @@
 # H0_tension
--- A fancy way to represent the tension between Hubble constant measurements --
+-- A fancy way to represent the tension between Hubble constant measurements as in <a href="https://ui.adsabs.harvard.edu/abs/2019NatAs...3..891V/abstract">Verde et al. 2019</a>--
 
 ![H0_tension.png](https://raw.githubusercontent.com/shsuyu/H0LiCOW-public/master/H0_tension_plots/H0_tension.png)
 As of 20.08.2019
