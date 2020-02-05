@@ -5,7 +5,7 @@
 As of 20.08.2019
 
 ### This is amazing, can I use it?
-Yes sure, but please cite our <a href = "http://doi.org/10.5281/zenodo.3635517"> Zenodo entry <\a>. You can always reach us via the issue system if you would like an updated/modified version for your needs.
+Yes sure, but please cite our <a href = "http://doi.org/10.5281/zenodo.3635517">Zenodo entry<\a>. You can always reach us via the issue system if you would like an updated/modified version for your needs.
 
 The code is not very well documented yet, but is simple enough so that it shouldn't take long to anyone with decent python skills to understand how it works. 
 
