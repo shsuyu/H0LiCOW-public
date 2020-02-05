@@ -15,7 +15,7 @@ With a little bit of patience, you should be able to reproduce Fig. 2 of <a href
 
 If you make use of this python notebook for H0 inference, please reference <a href="https://zenodo.org/record/3633035#.XjrsIhd7k0o">this Zenodo link</a> (bibtex entry <a href="https://zenodo.org/record/3633035/export/hx#.XjrsRhd7k0o">here</a>). 
 
-###Requirements 
+### Requirements 
 This notebook makes use of the folowing python package : 
  * `Lenstronomy` 
  * `numpy`
