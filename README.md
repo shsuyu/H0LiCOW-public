@@ -12,10 +12,6 @@ If you make use of this data, please cite the relevant H0LiCOW publications: <br
 <a href="https://arxiv.org/abs/1905.09338">Rusu et al. 2019</a> (WFI2033-4723 distance posterior) <br>
 <a href="https://arxiv.org/abs/1907.04869">Wong et al. 2019</a> (combined inference) <br>
 
-The H0 inference from these distance posteriors can be obtained following our python notebook, under the direcory "H0_inference_code".  If you make use of the python notebook for H0 inference, please credit Martin Millon and Vivien Bonvin by referencing this Zenodo link:
-https://zenodo.org/record/3633035#.XjrsIhd7k0o 
-(bibtex entry here: https://zenodo.org/record/3633035/export/hx#.XjrsRhd7k0o)
+The H0 inference from these distance posteriors can be obtained following our python notebook, under the direcory "H0_inference_code".  If you make use of the python notebook for H0 inference, please credit Martin Millon and Vivien Bonvin by referencing <a href="https://zenodo.org/record/3633035#.XjrsIhd7k0o">this Zenodo link</a> (bibtex entry <a href="https://zenodo.org/record/3633035/export/hx#.XjrsRhd7k0o">here</a>).
 
-Our implementation of the 6-lens distance posteriors and sampling scripts in MontePython (Brinckmann & Lesgourgues 2019; Audren et al. 2013) can be found in the directory "MontePython_cosmo_sampling". If you make use of this implementation, please credit Stefan Taubenberger and Sherry Suyu by referencing this Zenodo link:
-https://zenodo.org/record/3632967#.XjrsmRd7k0o
-(bibtex entry here: https://zenodo.org/record/3632967/export/hx#.Xjrs5a2ZM0o)
+Our implementation of the 6-lens distance posteriors and sampling scripts in MontePython (Brinckmann & Lesgourgues 2019; Audren et al. 2013) can be found in the directory "MontePython_cosmo_sampling". If you make use of this implementation, please credit Stefan Taubenberger and Sherry Suyu by referencing <a href="https://zenodo.org/record/3632967#.XjrsmRd7k0o">this Zenodo link</a> (bibtex entry <a href="https://zenodo.org/record/3632967/export/hx#.Xjrs5a2ZM0o">here</a>).
