@@ -9,7 +9,7 @@ Yes sure, but please cite our <a href="http://doi.org/10.5281/zenodo.3635517"> Z
 
 If you use this plot, do not forget to also properly cite each of the individual measurements : 
 
- * <a href="https://ui.adsabs.harvard.edu/abs/2018arXiv180706209P/abstract"> Planck 2018 results </a>, using CMB observation from Planck
+ * <a href="https://ui.adsabs.harvard.edu/abs/2018arXiv180706209P/abstract"> Planck 2018 results</a>, using CMB observation from Planck
  * <a href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.3879A/abstract"> DES Year 1 results</a>, using clustering and weak lensing in combination with BAO and BBN. 
  * <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200204035P/abstract"> Philcox et al. (2020)</a>, using Full-Shape and BA0 analyses in the BOSS survey in combination with BBN.
  * <a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...876...85R/abstract">  SHOES</a>, using the distance ladder method with SNe Ia and Cepheids. 
