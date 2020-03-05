@@ -5,7 +5,7 @@
 As of 03.03.2020
 
 ### This is amazing, can I use it?
-Yes sure, but please cite our <a href="http://doi.org/10.5281/zenodo.3635517"> Zenodo entry </a> (bibtex entry <a href="https://zenodo.org/record/3635517/export/hx#.XmEBgy2ZN-U"> here </a>). You can always reach us via the issue system if you would like an updated/modified version for your needs.
+Yes sure, but please cite our <a href="http://doi.org/10.5281/zenodo.3635517"> Zenodo entry </a> (bibtex entry <a href="https://zenodo.org/record/3635517/export/hx#.XmEBgy2ZN-U"> here</a>). You can always reach us via the issue system if you would like an updated/modified version for your needs.
 
 If you use this plot, do not forget to also properly cite each of the individual measurements : 
 
