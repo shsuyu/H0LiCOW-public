@@ -2,7 +2,7 @@
 -- A fancy way to represent the tension between Hubble constant measurements as in <a href="https://ui.adsabs.harvard.edu/abs/2019NatAs...3..891V/abstract">Verde et al. 2019</a>--
 
 ![H0_tension.png](https://github.com/shsuyu/H0LiCOW-public/blob/master/H0_tension_plots/H0_tension.png)
-As of 03.03.2020
+As of 22.06.2020
 
 ### This is amazing, can I use it?
 Yes sure, but please cite our <a href="http://doi.org/10.5281/zenodo.3635517"> Zenodo entry </a> (bibtex entry <a href="https://zenodo.org/record/3635517/export/hx#.XmEBgy2ZN-U"> here</a>). The code is simple enough so that it shouldn't take long to anyone with decent python skills to understand how it works. You can always reach us directly or by crating an issue if you would like an updated/modified version for your needs.
