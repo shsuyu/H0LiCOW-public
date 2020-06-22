@@ -18,7 +18,7 @@ If you use this plot, do not forget to also properly cite each of the individual
  * <a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190704869W/abstract"> H0LiCOW 6-lenses results</a>, using time-delay cosmography in lensed quasars
  * <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...891L...1P/abstract"> MCP</a>, using water megamasers
  * <a href="https://ui.adsabs.harvard.edu/abs/2018AAS...23231902P/abstract"> SBF</a>, using Surface Brightness Fluctuation and Cepheids
- * <a href="https://ui.adsabs.harvard.edu/abs/2018AAS...23231902P/abstract"> bTF </a>, using the baryonic Tully-Fisher relation with Cepheids and the Tip of the Red Giant Branch 
+ * <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200608615S/abstract"> bTF</a>, using the baryonic Tully-Fisher relation with Cepheids and the Tip of the Red Giant Branch 
  
 
 #### Are you planning to update this plot when new measurements come out?
