@@ -1,7 +1,7 @@
 # H<sub>0</sub> tension
 -- A fancy way to represent the tension between Hubble constant measurements as in <a href="https://ui.adsabs.harvard.edu/abs/2019NatAs...3..891V/abstract">Verde et al. 2019</a>--
 
-![H0_tension.png](https://raw.githubusercontent.com/shsuyu/H0LiCOW-public/master/H0_tension_plots/H0_tension.png)
+![H0_tension.png](https://github.com/shsuyu/H0LiCOW-public/blob/master/H0_tension_plots/H0_tension.png)
 As of 03.03.2020
 
 ### This is amazing, can I use it?
