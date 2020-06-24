@@ -1,8 +1,10 @@
+![H0_tension.png](https://github.com/shsuyu/H0LiCOW-public/blob/master/H0_tension_plots/H0_tension.png)
+
 # H<sub>0</sub> tension
 -- A fancy way to represent the tension between Hubble constant measurements as in <a href="https://ui.adsabs.harvard.edu/abs/2019NatAs...3..891V/abstract">Verde et al. 2019</a>--
 
-![H0_tension.png](https://github.com/shsuyu/H0LiCOW-public/blob/master/H0_tension_plots/H0_tension.png)
 As of 22.06.2020
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3635517.svg)](https://doi.org/10.5281/zenodo.3635517)
 
 ### This is amazing, can I use it?
