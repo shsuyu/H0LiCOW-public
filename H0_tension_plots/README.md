@@ -19,7 +19,7 @@ The individual measurements shown on this plot corresponds to the following refe
  * <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...889....5H/abstract"> MIRAS</a>, using the distance ladder method with SNIe Ia and Mira variables 
  * <a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190704869W/abstract"> H0LiCOW 6-lenses results</a> + <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.6072S/abstract"> STRIDES</a>, using time-delay cosmography in lensed quasars
  * <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...891L...1P/abstract"> MCP</a>, using water megamasers
- * <a href="https://ui.adsabs.harvard.edu/abs/2018AAS...23231902P/abstract"> SBF</a>, using Surface Brightness Fluctuation and Cepheids
+ * <a href="https://ui.adsabs.harvard.edu/abs/2018AAS...23231902P/abstract"> SBF</a>, using Surface Brightness Fluctuations and Cepheids
  * <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200608615S/abstract"> bTF</a>, using the baryonic Tully-Fisher relation with Cepheids and the Tip of the Red Giant Branch 
  
 
