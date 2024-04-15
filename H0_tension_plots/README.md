@@ -15,8 +15,8 @@ The individual measurements shown on this plot corresponds to the following refe
  * <a href="https://ui.adsabs.harvard.edu/abs/2018arXiv180706209P/abstract"> Planck 2018 results</a>, using CMB observation from Planck
  * <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...12..047A/abstract"> ACT DR4 results</a>, using CMB observation from ACT only
  * <a href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.3879A/abstract"> DES Year 1 results</a>, using clustering and weak lensing in combination with BAO and BBN. 
- * <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200204035P/abstract"> Philcox et al. (2020)</a>, using Full-Shape and BAO analyses in the BOSS survey in combination with BBN.
- * <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...934L...7R/abstract">  SH0ES 2022</a>, using the distance ladder method with SNe Ia, Cepheids and geometrical distances. 
+ * <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D/abstract"> DESI Year 1 </a>, using BAO measurements + BBN.
+ * <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240408038B/abstract">  SH0ES 2024 (Breuval et al. 2024)</a>, using the distance ladder method with SNe Ia, Cepheids and geometrical distances. 
  * <a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...919...16F/abstract"> CCHP 2021</a>, using the distance ladder method with SNe Ia and the Tip of the Red Giand Branch. 
  * <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...889....5H/abstract"> MIRAS</a>, using the distance ladder method with SNIe Ia and Mira variables 
  * <a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190704869W/abstract"> H0LiCOW 6-lenses results</a> + <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.6072S/abstract"> STRIDES</a>, using time-delay cosmography in lensed quasars
