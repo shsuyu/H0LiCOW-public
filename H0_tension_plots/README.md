@@ -13,11 +13,11 @@ Yes sure, but please cite our <a href="http://doi.org/10.5281/zenodo.3635517"> Z
 The individual measurements shown on this plot corresponds to the following references : 
 
  * <a href="https://ui.adsabs.harvard.edu/abs/2018arXiv180706209P/abstract"> Planck 2018 results</a>, using CMB observation from Planck
- * <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...12..047A/abstract"> ACT DR4 results</a>, using CMB observation from ACT only
- * <a href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.3879A/abstract"> DES Year 1 results</a>, using clustering and weak lensing in combination with BAO and BBN. 
- * <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D/abstract"> DESI Year 1 </a>, using BAO measurements + BBN.
+ * <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250314452L/abstract"> ACT DR6 results</a>, using CMB observation from ACT only
+ * <a href="https://arxiv.org/abs/2501.05739"> DES Year 3 results</a>, using clustering and weak lensing in combination with BAO and BBN. 
+ * <a href="https://arxiv.org/pdf/2503.14738"> DESI DR2 </a>, using BAO measurements + BBN.
  * <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240408038B/abstract">  SH0ES 2024 (Breuval et al. 2024)</a>, using the distance ladder method with SNe Ia, Cepheids and geometrical distances. 
- * <a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...919...16F/abstract"> CCHP 2021</a>, using the distance ladder method with SNe Ia and the Tip of the Red Giand Branch. 
+ * <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240806153F/abstractt"> CCHP 2024</a>, using the distance ladder method with SNe Ia and the Tip of the Red Giand Branch. 
  * <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...889....5H/abstract"> MIRAS</a>, using the distance ladder method with SNIe Ia and Mira variables 
  * <a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190704869W/abstract"> H0LiCOW 6-lenses results</a> + <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.6072S/abstract"> STRIDES</a>, using time-delay cosmography in lensed quasars
  * <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...891L...1P/abstract"> MCP</a>, using water megamasers
@@ -30,4 +30,4 @@ We sure do. Let us know if we missed a new result! But note that this is only a 
 
 #### Contributors
 Vivien Bonvin (vivien.bonvin@protonmail.ch)  
-Martin Millon (martin.millon@epfl.ch)
+Martin Millon (mmillon@ethz.ch)
